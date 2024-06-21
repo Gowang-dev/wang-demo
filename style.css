@@ -1,0 +1,37 @@
+.title-bg  {
+    background-color: skyblue;
+}
+.carousel-inner img {
+    max-height: 500px;
+    object-fit: contain;
+  }
+  .carousel-container {
+    max-width: 600px; 
+    margin: 0 auto; 
+  }
+  .carousel-control-prev-icon,
+    .carousel-control-next-icon {
+    background-color: black;
+    border-radius: 50%;
+      width: 30px;
+      height: 30px;
+    }
+.price  {
+margin-bottom: 100PX;
+MARGIN-LEFT: 660PX;
+
+}
+.listing  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+li  {
+    list-style-type: none;
+    padding: 6px;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+
+}
